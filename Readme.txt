@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Thanks for checking out my portfolio!
 
-Template Name: DevFolio
-Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Developer Name: Morris Koome
+Portfolio URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
+LinkedIn: https://www.linkedin.com/in/morris-koome-609918138/
